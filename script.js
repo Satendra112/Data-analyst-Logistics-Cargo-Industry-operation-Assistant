@@ -8,9 +8,9 @@ function closeMenu(){
 
 /* TYPEWRITER */
 const texts = [
-  "Entry-Level Data Analyst",
-  "Excel & Power BI Specialist",
-  "SQL Learner"
+  "Aspiring Data Analyst",
+  "Power BI Dashboard Developer",
+  "SQL & Python Learner"
 ];
 
 let index = 0;
